@@ -1,0 +1,90 @@
+
+  @media (min-width:321px) and (max-width:400px){
+      #garis{
+          visibility: hidden;
+      }
+
+      #nama{
+          text-align:center;
+          margin-left: 75px;
+          margin-right: 40px;
+      }
+      #gambar{
+          text-align: center;
+      }
+      #bio1{
+          text-align: justify;
+          font-size: small;
+      }
+      #bio2{
+          font-size: small;
+      }
+      
+
+        
+  }
+
+  @media (min-width:354px) and (max-width:400px){
+    #garis{
+        visibility: hidden;
+    }
+
+    #nama{
+        text-align:center;
+        margin-left: 85px;
+        margin-right: 60px;
+    }
+    #gambar{
+        text-align: center;
+    }
+    #bio1{
+        text-align: justify;
+        font-size: small;
+    }
+    #bio2{
+        font-size: small;
+    }
+    
+
+      
+}
+
+@media (min-width:383px) and (max-width:400px){
+    #garis{
+        visibility: hidden;
+    }
+
+    #nama{
+        text-align:center;
+        margin-left: 110px;
+        margin-right: 75px;
+    }
+    #gambar{
+        text-align: center;
+    }
+    #bio1{
+        text-align: justify;
+        font-size: small;
+    }
+    #bio2{
+        font-size: small;
+    }
+    
+
+      
+}
+
+  #bio2{
+      color: gray;
+  }
+
+  .navbar {
+    margin-bottom: 20px;
+  }
+
+  .container {
+    max-width: 960px;
+  }
+
+
+  
